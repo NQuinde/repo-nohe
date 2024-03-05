@@ -2,5 +2,4 @@ Hola mundo desde File2
 
 Editando file2
 Editando file2 Nohe
-Editando file2 con conflicto
-
+Creando conflicto con Nohe
